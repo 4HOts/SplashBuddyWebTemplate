@@ -1,5 +1,5 @@
 # SplashBuddy Web Template
-A cleanly styled and animated web template for you all to use in SplashBuddy. Feel free to re-brand to meet your organisation's brand.
+A cleanly styled and animated web template for you all to use in SplashBuddy. Feel free to re-brand to match your organisation's branding.
 
 ## Video
 https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/PublicDemo720.mov
