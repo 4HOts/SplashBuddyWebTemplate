@@ -9,6 +9,6 @@ The presentation.bundle in this repository must be copied into /Library/Applicat
 The WebView is setup with  fullPage.js and Animate.css plugins for smooth scrolling, text animation and slide based formatting. Can be customised heavily for anyone who wants to.
 
 ## Contact
-Mac Admins Slack: ryanslater_
-Mail: ryan@ryanslater.co.uk
-Web: https://ryanslater.co.uk
+- Mac Admins Slack: ryanslater_
+- Mail: ryan@ryanslater.co.uk
+- Web: https://ryanslater.co.uk
