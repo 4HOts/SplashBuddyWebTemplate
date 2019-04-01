@@ -13,8 +13,12 @@ https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/Pu
 ![Additional Screen](https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/3.jpeg)
 ![Additional Screen](https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/4.jpeg)
 
+### Now with Snake!
+![Additional Screen](https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/5.png)
+![Additional Screen](https://github.com/ryanslater-uk/SplashBuddyWebTemplate/blob/master/Resources/6.png)
+
 ## Installation
-The presentation.bundle in this repository must be copied into /Library/Application\ Support/SplashBuddy/ in order for it to function. Simply use this bundle when you're building your SplashBuddy package and you're good to go.
+Choose the version of the Presentation.bundle you prefer in this repository must be copied into /Library/Application\ Support/SplashBuddy/ in order for it to function. Simply use this bundle when you're building your SplashBuddy package and you're good to go.
 
 ## Notes
 The WebView is setup with  fullPage.js and Animate.css plugins for smooth scrolling, text animation and slide based formatting. Can be customised heavily for anyone who wants to.
